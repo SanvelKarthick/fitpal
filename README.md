@@ -6,8 +6,7 @@
 - Android Studio SDK Download
 
 >Home Page Design
-![Screenshot_1724881872](https://github.com/user-attachments/assets/8ad21ce7-a9c9-4e25-8bd0-20d00b609551)
-
+<img width="434" alt="Screenshot 2024-08-29 at 3 33 10 AM" src="https://github.com/user-attachments/assets/4362aff7-2a81-460c-95fb-03b6d6d55f91">
 
 
 ## Reference 
