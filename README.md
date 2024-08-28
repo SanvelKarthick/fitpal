@@ -1,2 +1,2 @@
-# DEIT APP | HOME PAGE DESIGN | FLUTTER
+# Deit App | Home Page Design | Flutter
  
