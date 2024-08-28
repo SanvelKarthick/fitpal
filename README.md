@@ -1,2 +1,2 @@
-# Deit App | Home Page Design | Flutter
+# Diet App | Home Page Design 
  
